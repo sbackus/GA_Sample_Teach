@@ -11,9 +11,9 @@
 Time | Topic | Materials | Notes
 --- | --- | --- | ---
 1 min|Why Arrays? | | 
-2 min|Creating and adding to Arrays | Shopping List demo| 
+2 min|Creating and adding to Arrays | [Shopping List demo](https://github.com/sbackus/GA_Sample_Teach/blob/master/demo1.rb)| 
 3 min|Movie List Activity | | 
-2 min|Getting first value from Array Demo | | zero index
+2 min|Getting first value from Array Demo | [Presidents demo](https://github.com/sbackus/GA_Sample_Teach/blob/master/demo2.rb)| zero index
 4 min|Getting last value from Array - Think Pair Share |  [ruby-docs](http://ruby-doc.org/core-2.2.0/Array.html)| |
 1 min|Questions & Wrap up | |
 
